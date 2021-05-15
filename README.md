@@ -21,3 +21,4 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 ![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-526900?style=flat-square&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-038cfc?style=flat-square&logo=jquery)
+![Flutter](https://img.shields.io/badge/flutter-flutter-blue)
