@@ -10,7 +10,7 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 
 ## 🧠 Skills
 
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | `https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white`
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
