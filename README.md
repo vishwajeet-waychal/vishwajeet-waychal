@@ -13,8 +13,6 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 ![C++](https://img.shields.io/badge/-C++-323680?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-242424?style=flat-square&logo=Flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-d1e2ff?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-850000?style=flat-square&logo=git)
@@ -22,3 +20,4 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-526900?style=flat-square&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-038cfc?style=flat-square&logo=jquery)
 ![Flutter](https://img.shields.io/badge/flutter-flutter-blue)
+![NodeJs](https://img.shields.io/badge/node%20js-node%20js-green)
