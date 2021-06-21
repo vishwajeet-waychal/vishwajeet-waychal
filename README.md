@@ -1,4 +1,8 @@
 
+## Hi there, I'm Vishwajeet! 👋
+
+I am a student from Pune pursuing a degree in Computer Science,  currently making mobile apps while learning flutter development. I am enthusiastic about anything technology-related. Always open to collaborate on projects!
+
 ## 👨 Social
 
 [![Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeet-waychal-69240a16a/)
