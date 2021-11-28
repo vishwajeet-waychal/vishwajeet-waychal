@@ -5,7 +5,7 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 
 ## 🧑 Social
 
-[![Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeet-waychal-69240a16a/)
+[![Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeet-waychal-69240a16a/) [![Logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwajeet-waychal/)
 
 [![Logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwajeet-waychal/)
 
