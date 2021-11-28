@@ -15,7 +15,7 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 
 
 
-## ⚡ Database
+## ⚡ 💿 Database
 
 ![Logo](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![Logo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; ![Logo](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -40,6 +40,11 @@ I am a student from Pune pursuing a degree in Computer Science,  currently makin
 
 ![Logo](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) &nbsp; ![Logo](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+
+
+## ☁ Version Control
+
+![Logo](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp; ![Logo](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
